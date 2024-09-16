@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6240eef1-2192-4ce6-a49e-1c1cc0192116" name="Changes" comment="- ajuste editando README.md">
-      <change beforePath="$PROJECT_DIR$/src/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/env.js" afterDir="false" />
+    <list default="true" id="6240eef1-2192-4ce6-a49e-1c1cc0192116" name="Changes" comment="- ajuste package.json segunda vez">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/ajustes-servidor-web" />
+        <entry key="$PROJECT_DIR$" value="feature/services-web" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,11 +152,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
     <MESSAGE value="Revert &quot;modificamos el lugra del readme.md&quot;&#10;&#10;This reverts commit 5f21da007155134354b30ac082d13272e734e8c9." />
     <MESSAGE value="commit de prueba" />
     <MESSAGE value="- segundo commit de prueba" />
     <MESSAGE value="- Ajuste readme" />
     <MESSAGE value="- ajuste editando README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="- ajuste editando README.md" />
+    <MESSAGE value="- ajuste package.json segunda vez" />
+    <option name="LAST_COMMIT_MESSAGE" value="- ajuste package.json segunda vez" />
   </component>
 </project>
