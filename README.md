@@ -9,4 +9,4 @@ Ya puedes ejecutar el proyecto usando npm start
 
 Requiere:
 NODE: Se debe instalar NODE en el sistema operativo
-GIT: Debe tener Instalado GIT. con android studios.
+GIT: Debe tener Instalado GIT. con android studios. prueba 4
